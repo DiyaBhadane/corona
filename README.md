@@ -1,2 +1,2 @@
-# corona_
+# corona
 This is a game to aware people about COVID - 19... 
